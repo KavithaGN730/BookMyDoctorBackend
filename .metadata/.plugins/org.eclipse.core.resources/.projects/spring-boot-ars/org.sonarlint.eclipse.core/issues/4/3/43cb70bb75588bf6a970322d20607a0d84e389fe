@@ -1,0 +1,9 @@
+
+|squid:S1192&"HDefine a constant instead of duplicating this literal "Failure" 5 times.(ÌÁÃ£ýÿÿÿÿHLRCRITICALZ
+CODE_SMELL
+wsquid:S1192""HDefine a constant instead of duplicating this literal "Success" 5 times.(ãú³ÏHMRCRITICALZ
+CODE_SMELL
+jsquid:S1155A">Use isEmpty() to check whether the collection is empty or not.(Å„‡•HNRMINORZ
+CODE_SMELL
+wsquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ášèèüÿÿÿÿHORCRITICALZVULNERABILITY
+wsquid:S4684`"@Replace this persistent entity with a simple POJO or DTO object.(ÖìíšýÿÿÿÿHPRCRITICALZVULNERABILITY

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Kavitha\Desktop\kusubu\UserModule"/>
+			<item value="C:\Users\Kavitha\Desktop\kusubu\PatientModule"/>
+			<item value="C:\Users\Kavitha\Desktop\kusubu\DoctorModule"/>
+			<item value="C:\Users\Kavitha\Desktop\kusubu\bookmydoctor"/>
+			<item value="C:\Users\Kavitha\Desktop\kusubu\AppointModule"/>
+			<item value="C:\Users\Kavitha\Desktop\Downloads\backend (5)\PROJECT\PatientModule"/>
+			<item value="C:\Users\Kavitha\Desktop\Downloads\backend (5)\PROJECT\DoctorModule"/>
+			<item value="C:\Users\Kavitha\Desktop\Downloads\backend\PROJECT\UserModule"/>
+			<item value="C:\Users\Kavitha\Desktop\Downloads\backend\PROJECT\PatientModule"/>
+			<item value="C:\Users\Kavitha\Desktop\Downloads\backend (1)\PROJECT\PatientModule"/>
+			<item value="C:\Users\Kavitha\Desktop\Downloads\backend (4)\PROJECT\PatientModule"/>
+			<item value="C:\Users\Kavitha\Desktop\Downloads\backend (3)\PROJECT\PatientModule"/>
+			<item value="C:\Users\Kavitha\Desktop\Downloads\backend (3)\PROJECT\UserModule"/>
+			<item value="C:\Users\Kavitha\Desktop\Downloads\backend\PROJECT\DoctorModule"/>
+			<item value="C:\Users\Kavitha\Desktop\Downloads\backend (1)\PROJECT\DoctorModule"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
